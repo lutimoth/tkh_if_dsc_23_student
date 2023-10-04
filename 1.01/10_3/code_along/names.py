@@ -9,3 +9,7 @@ TKH = 3
 TKH23 = 10
 
 TKHhhhhhhhhhhhhhhh = 25
+
+while True:
+    y = int(input("give me a number: "))
+    print(y + 2)

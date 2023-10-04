@@ -1,7 +1,8 @@
 # take in one number
-x = ...
+x = int(input())
 
 # take in another
-y = ...
+y = int(input())
 
 # add together and print
+print(y+x)
