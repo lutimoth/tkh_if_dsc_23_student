@@ -13,7 +13,9 @@
 # 1. In a print statement, what happens if you leave out one of the
 # parentheses, or both?
 
+# got unexpected EOF while parsing, synax error - What does it mean?
 
+# print "cool"
 
 # 2. If you are trying to print a string, what happens if you leave out one
 # of the quotation marks, or both?
