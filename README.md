@@ -1,1 +1,0 @@
-# tkh_if_dsc_23_student
