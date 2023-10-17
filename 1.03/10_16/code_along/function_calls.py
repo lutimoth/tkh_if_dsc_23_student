@@ -21,6 +21,7 @@ new_str = str(num)
 print(new_str)
 
 # this function takes in a string, and returns its length
+word = 'regression'
 size = len(word)
 print("size is", size)
 

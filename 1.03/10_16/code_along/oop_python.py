@@ -4,7 +4,7 @@ word = "hello world!"
 # a string is an object!
 
 # it contains attributes
-print(word.__annotations__)
+print(word.__len__)
 
 # it also contains methods
 print(word.capitalize())
