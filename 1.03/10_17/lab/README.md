@@ -14,7 +14,7 @@ This lab aims to reinforce your skills in OOP. By the end of this exercise, you 
 
 ## Part 1: ex51.py
 
-Access the file labeled `ex31.py` and implement the commented directions.
+Access the file labeled `ex51.py` and implement the commented directions.
 
 Read the directions of each part to successfully implement a class. Utilize the notes, readings, and your peers.
 
