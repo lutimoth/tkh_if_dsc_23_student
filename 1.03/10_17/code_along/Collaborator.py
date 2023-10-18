@@ -1,9 +1,9 @@
-from Person import PersonClass
+# from Person import PersonClass
 # from Person import PersonClass, giveTime
 # from Person import *
+import Person
 
-
-class Collaborator(PersonClass):
+class Collaborator(Person.PersonClass):
     def print_email(self):
         print(f"{self.name}@gmail.com")
 

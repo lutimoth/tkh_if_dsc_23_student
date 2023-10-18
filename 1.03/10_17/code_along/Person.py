@@ -9,15 +9,15 @@ def makeSlides():
     time.sleep(2)
     print("DONE!")
 
-
 class PersonClass:
-    def __init__(self, name, food, aff):
-        self.name = name
-        self.food = food
-        self.aff = aff
-  
-    def fav_food(self):
-        print(f"{self.name} likes {self.food}")
+        def __init__(self, name, food, aff):
+            self.name = name
+            self.food = food
+            self.aff = aff
+    
+        def fav_food(self):
+            print(f"{self.name} likes {self.food}")
+
 
 # if you're wondering, what is this?
 # try removing this conditional and running `Collaborator.py`

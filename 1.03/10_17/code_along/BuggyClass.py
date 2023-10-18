@@ -1,5 +1,6 @@
 import Person
-
+# from Person import PersonClass, makeSlides
+from Person import *
 
 class Instructor(PersonClass):
     def task(self):
