@@ -4,9 +4,9 @@ data = [130, 500, 1000, "404", 530, 200, 150_000, 100_000,
 retention_rate = 0.03
 
 # TODO: run this code
-for pop in data:
+for num in data:
     try:
-        print(f"we retained {retention_rate * pop} users")
+        print(f"we retained {retention_rate * num} users")
     except TypeError:
         print("Improper type, skipping")
         continue
