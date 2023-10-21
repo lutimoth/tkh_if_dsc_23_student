@@ -24,3 +24,15 @@ Go to the repository page for your website and click on the "branches".
 Click on the New branch button on the top right.
 
 ![github new branch button](image-1.png)
+
+Click on the new branch you made to go to it. It should look exactly the same as your main branch. 
+
+Go to the html folder in this week's class folder. We are going to add that page to our github.
+
+## Adding an index.html to branch
+
+We're going to fill out the index page based on the instructions in the HTML. 
+
+Once you complete that come back here. Since we are not a web development course, we're not going to dive into how HTML works or how to make it super fancy but we'll at least get you going with an index page. 
+
+This way you have something to upload!
