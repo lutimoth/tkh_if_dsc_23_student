@@ -11,7 +11,7 @@ def windows_get_downloads():
 
 def get_downloads():
     print("====PRINTING OUT FOLDERS OF 10_24====")
-    path = Path("..", "1.04", "10_24")
+    path = Path(".", "1.04", "10_24")
     files = os.listdir(path)
     print(files)
 
