@@ -55,3 +55,9 @@ Follow the instructions and buttons to make the pull and merge request.
 ![Alt text](image-3.png)
 
 Once you complete the merge request, make sure you delete the branch.
+
+## Challenge Mode
+
+Add your github.io repository to your computer using GitHub Dekstop.
+
+Try using command line to create a new branch, make a change to the index.html file, pushing to github, and then making a pull request (on the website).
