@@ -17,8 +17,16 @@ class StockMetrics(StockData):
         """
         averages = []
         for row in self.data:
-            ...
-        print(averages)
+            data_row = row[1:]
+            y = []
+            for x in data_row:
+                try:
+                    y.append(float(x))
+                except ValueError:
+                    continue
+            average = stats.mean(y)
+            rounded_average = round(average, 3)
+            averages.append(rounded_average)
         return averages
 
     def median02(self):
